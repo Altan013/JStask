@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.taskcomfirm {
+  text-align: center;
+  padding: 20px 0;
+  background-color: chartreuse;
+}
+
+.taskcomfirm .check {
+  border-radius: 30px;
+  color: #00ff40;
+  padding: 10px 30px;
+  background: #ffa600;
+}
+
+.promt {
+  padding: 20px 0;
+  background-color: cornflowerblue;
+}
+
+.promt #btn {
+  border-radius: 30px;
+  padding: 10px 30px;
+  background-color: aqua;
+  color: red;
+}
+
+.task3 {
+  text-align: center;
+}
+
+.task3 #info {
+  border-radius: 30px;
+  -webkit-text-decoration: underline  wheat;
+          text-decoration: underline  wheat;
+  padding: 10px 20px;
+  color: wheat;
+  background-color: black;
+  border: 1px  solid black;
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */

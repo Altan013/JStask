@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.taskcomfirm{
+    text-align: center;
+    padding: 20px 0;
+    background-color: chartreuse;
+    .check{
+        border-radius: 30px;
+        color: rgb(0, 255, 64);
+        padding: 10px 30px;
+        background: #ffa600;
+    }
+}
+
+.promt{
+    padding: 20px 0;
+    background-color: cornflowerblue;
+    #btn{
+        border-radius: 30px;
+        padding: 10px 30px;
+        background-color: aqua;
+        color: red;
+    }
+}
+
+.task3{
+    text-align: center;
+    #info{
+        border-radius: 30px;
+        text-decoration: underline  wheat;
+        padding: 10px 20px;
+        color: wheat;
+        background-color: black;
+        border: 1px  solid black;
+        display: inline-block;
+    }
+}
